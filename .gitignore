@@ -1,0 +1,25 @@
+# bloop and metals
+.bloop
+.bsp
+
+# sbt
+project/target/
+target/
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
+# mac
+.DS_Store
+
+# other?
+.history
+.scala_dependencies
+.cache-main
+
+# general
+*.class
